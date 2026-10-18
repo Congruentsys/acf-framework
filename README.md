@@ -199,6 +199,10 @@ Part of the open-source stack behind [Congruent Systems](https://congruentsys.co
 - **[nusy-kanban](https://github.com/hankh95/nusy-kanban)** — Arrow-native, distributed kanban for multi-agent teams, with a built-in Hypothesis-Driven-Development research workflow.
 - **[noesis-ship](https://github.com/hankh95/noesis-ship)** — pluggable multi-agent communication platform on NATS (EventBus, KV, object store).
 
+## Science registry
+
+Congruent Systems' cross-repo science registry is [`Congruentsys/congruentsys-science`](https://github.com/Congruentsys/congruentsys-science) (private, so the link resolves only for collaborators): the claims ledger, the papers, the cross-repo hypothesis register, an index of every prereg and result, and the board for cross-project science. This repo's own specification, hypotheses, measures and batteries stay and are maintained here; the registry holds pinned pointers to them (repo, commit, path, sha256), so nothing here is moved or re-locked. New cross-project science, and papers, start in the registry.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
