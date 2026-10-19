@@ -1,5 +1,8 @@
 """
-ACF Scorer: Score AI systems across the 12 ACF v1.2 dimensions.
+ACF Scorer: Score AI systems on ten of the 12 ACF v1.2 dimensions.
+
+The reference scorer has no scoring function yet for Safety/Containment or
+Knowledge Transfer.
 
 Each dimension has a scoring function that takes raw metrics and returns
 an ACFDimensionScore. The ACFScorer aggregates dimension scores into
