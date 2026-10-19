@@ -51,14 +51,9 @@ Action Capability measures a system's ability to **execute known procedures** on
 
 ## Motivation: The Knowledge-Action Gap
 
-Research shows a measurable gap between knowing and doing:
-
-| System | Knowledge | Execution | Gap |
-|--------|-----------|-----------|-----|
-| Expert System (FHIR-CPG) | 95% | 92-96% | 0-3% |
-| LLM (GPT-4) | 82-87% | 41-48% | 38-43% |
-| Neurosymbolic (before action framework) | 91-93% | 12-18% | 74-80% |
-| Neurosymbolic (with action framework) | 91-93% | 63-71% | 22-28% |
+A system can know a procedure without being able to execute it. No measured figures are given here: an earlier
+table of knowledge-versus-execution rates (an expert system, GPT-4, and a neurosymbolic system before and after the
+action framework), introduced by "Research shows", cited no paper, run or command, and was removed on 2026-10-16.
 
 Existing ACF dimensions don't capture this gap:
 - **Depth (L3: Apply)** measures whether a system *can reason* about application — not whether it can *execute*

@@ -79,3 +79,4 @@ Run `pytest` before committing. Tests must pass before creating a PR. Tests cove
 - **nusy-product-team** — Uses ACF for being certification
 - **yurtle-rdflib** — RDF parsing library
 - **research** — Paper 122 (AGI Certification Framework)
+- **congruentsys-science** (`Congruentsys/congruentsys-science`, private) — the cross-repo science registry (Captain 2026-10-18): register cross-project science and new papers there. This repo's knowledge, hypotheses and measures stay here under the rules above; the registry only holds pinned pointers to them.
