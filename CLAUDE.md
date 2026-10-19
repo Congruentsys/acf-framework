@@ -71,8 +71,8 @@ Run `pytest` before committing. Tests must pass before creating a PR. Tests cove
 | Agent | GitHub | Platform |
 |-------|--------|----------|
 | **M5** | hankh95 | MacBook Pro M5 |
-| **DGX** | hankh959 | DGX Spark |
-| **Mini** | hankh1844 | Mac Mini M4 |
+| **DGX** | `<user>` | DGX Spark |
+| **Mini** | `<user>` | Mac Mini M4 |
 
 ## Related Projects
 
